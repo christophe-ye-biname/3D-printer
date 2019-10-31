@@ -2,18 +2,18 @@
 Building and programming a 3D printer
 
 **Team members** 
-* Olivier (PM)
-* Louis (PM)
-* loiclissens
-* quentindepaola404
-* gaudeline_d
-* krynskibartosz08
-* petroons_jonathan
-* v1996_vincent
-* louis_vandriessche_1
-* belindaschepers1
-* gaby_pomboml
-* christopheyebiname
+* [Olivier Huvelle](https://github.com/olivierHuvelle) (PM)
+* [Louis Wicket](https://github.com/512LouisWicket) (PM)
+* [Loïc Lissens](https://github.com/LoicLissens)
+* [Quentin De Paola](https://github.com/quendepa)
+* [gaudeline_d](https://github.com/Gaudeline)
+* [Bartosz Krynski](https://github.com/krynskibartosz)
+* [Jonathan Petroons](https://github.com/petroons-jonathan)
+* [Vincent Vissers](https://github.com/Vincent-120)
+* [Louis Van Driessche](https://github.com/Louis-vd)
+* [Belinda Schepers](https://github.com/belindaschepers)
+* [Gaby Pombo Monteiro Leonor](https://github.com/Gabypml)
+* Christophe Ye Biname
 
 **Ressources**
 * [Trello_documentation](https://trello.com/b/goVn9zqa/imprimante3ddocumentation)
