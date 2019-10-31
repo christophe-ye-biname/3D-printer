@@ -15,7 +15,7 @@ Building and programming a 3D printer
 * [Gaby Pombo Monteiro Leonor](https://github.com/Gabypml)
 * Christophe Ye Biname
 
-**Ressources**
+**Resources**
 * [Trello_documentation](https://trello.com/b/goVn9zqa/imprimante3ddocumentation)
 * [Trello_hardware](https://trello.com/b/MOCTHFVg/imprimante3dhardware)
 * [Trello_software](https://trello.com/b/lOgzFnud/imprimante3dsoftware)
